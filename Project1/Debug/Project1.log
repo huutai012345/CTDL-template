@@ -1,0 +1,16 @@
+﻿  Main.cpp
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\DoHoa.h(4,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\DoHoa.h(4,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(62,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(71,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(79,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(141,81): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(255,72): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(367,97): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(379,38): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(362,7): warning C4101: 'c': unreferenced local variable
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(448,24): warning C4018: '<': signed/unsigned mismatch
+D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Project1\Handle.h(36): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+  Project1.vcxproj -> D:\Code\C-C++\CTDL\DeTaiCTDL\GiaoDien2\Debug\Project1.exe
